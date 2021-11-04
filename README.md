@@ -15,10 +15,11 @@
 
 ### Languages:
 
-First Header | Second Header
+Langauges | Experiance 
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Python | 18 Months 
+TensorFlow  | 8 Months 
+Octive | 9 Months 
 
 
 
