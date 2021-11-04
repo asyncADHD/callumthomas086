@@ -26,8 +26,8 @@ Git | 18 Months
 
 ### Projects:
 
-Project | Status 
+Project | Status | Link
 -------- | --------
-Crypto trading Bot | Active (Unfinished)
-Dvla Plate Checker | Complete (further devopment intened)
-Simple caculator | completed (Used Tkinter With Python)
+Crypto trading Bot | Active (Unfinished) | https://github.com/callumthomas086/Binace_API_Trading_Bot
+Dvla Plate Checker | Complete (further devopment intened) | https://github.com/callumthomas086/Plate_checker
+Simple caculator | completed (Used Tkinter With Python) | https://github.com/callumthomas086/Simple-calc
