@@ -24,7 +24,7 @@ SQL | 6 Months
 Azure | 7 Months 
 Git | 18 Months 
 
-
+### Projects:
 
 Project | Status 
 -------- | --------
