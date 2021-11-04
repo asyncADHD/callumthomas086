@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @callumthomas086
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there, I', callum.
 
-<!---
-callumthomas086/callumthomas086 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## I'm an aspiring python devloper 👋
+
+
+- 🔭 I'm currently working on VS Code
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2021-2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I am facinated with AI and the world of code
+
+
+### Connect with me:
+
+
+### Languages:
+
+Languages | experiance 
+
+---------- | -----------
+
+Python 
+
+
+
+
