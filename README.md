@@ -1,4 +1,4 @@
-### Hi there, I', callum.
+### Hi there, I'm, Callum Thomas.
 
 
 ## I'm an aspiring python devloper 👋
