@@ -26,3 +26,8 @@ Git | 18 Months
 
 
 
+Project | Status 
+-------- | --------
+Crypto trading Bot | Active (Unfinished)
+Dvla Plate Checker | Complete (further devopment intened)
+Simple caculator | completed (Used Tkinter With Python)
