@@ -20,6 +20,9 @@ Langauges | Experiance
 Python | 18 Months 
 TensorFlow  | 8 Months 
 Octive | 9 Months 
+SQL | 6 Months 
+Azure | 7 Months 
+Git | 18 Months 
 
 
 
