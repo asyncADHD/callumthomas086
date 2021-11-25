@@ -1,7 +1,7 @@
 ### Hi there, I'm Callum Thomas.
 
 
-## I'm an aspiring python devloper 👋
+## I'm an aspiring python developer 👋
 
 
 - 🔭 I'm currently working on VS Code
@@ -32,7 +32,6 @@ Git | 9 Months
 Project | Status | Link
 -------- | -------- | -----------------
 Crypto trading Bot | Active (Unfinished) | https://github.com/callumthomas086/Binace_API_Trading_Bot
-Dvla Plate Checker | Complete (further devopment intened) | https://github.com/callumthomas086/Plate_checker
-Simple Calculator | completed (Used Tkinter With Python) | https://github.com/callumthomas086/Simple-calc
-
+Dvla Plate Checker | Complete (further development intended) | https://github.com/callumthomas086/Plate_checker
+Simple Calculator | completed (Used Tkinter with Python) | https://github.com/callumthomas086/Simple-calc
 
