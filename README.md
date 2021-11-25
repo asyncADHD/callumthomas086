@@ -23,7 +23,7 @@ Languages | Experience
 Python | 12 Months 
 TensorFlow  | 6 Months 
 Octive | 4 Months 
-SQL | 4 Months 
+SQL | 6 Months 
 Azure | 4 Months 
 Git | 9 Months 
 
