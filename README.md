@@ -18,7 +18,7 @@
 
 ### Languages:
 
-Langauges | Experiance 
+Languages | Experience
 ------------ | -------------
 Python | 12 Months 
 TensorFlow  | 6 Months 
