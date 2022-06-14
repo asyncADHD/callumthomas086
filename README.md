@@ -14,13 +14,10 @@
 
 ### Languages:
 
-Languages | Experience
------------- | -------------
-Python | 18 Months  
-SQL | 12 Months 
-Azure | 4 Months 
-Git | 14 Months
-VBA | 6 Months 
+- Python
+- VBA 
+- SQL
+
 
 ### Projects:
 
