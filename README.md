@@ -17,6 +17,7 @@
 - Python
 - VBA 
 - SQL
+- JavaScript
 
 
 ### Projects:
