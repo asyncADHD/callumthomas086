@@ -25,7 +25,7 @@
 Project | Status | Link
 -------- | -------- | -----------------
 Crypto trading Bot | Active (Unfinished) | https://github.com/callumthomas086/Binace_API_Trading_Bot
-Dvla Plate Checker | Complete (further development intended) | https://github.com/callumthomas086/Plate_checker
 Simple Calculator | completed (Used Tkinter with Python) | https://github.com/callumthomas086/Simple-calc
 Login System | Basic workflow created | https://github.com/callumthomas086/login_system
+Restaurant with embedded map | Prototype | Currently private 
 
