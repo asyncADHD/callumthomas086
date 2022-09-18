@@ -1,15 +1,9 @@
 ### Hi there, I'm Callum Thomas.
 
 
-## I'm an python fintech developer 👋
-
-
-- 🔭 I'm currently working on VS Code
-
 ### Connect with me:
 
 - :mailbox_with_no_mail: callumthomas086@gmail.com
-
 
 
 ### Languages:
@@ -18,7 +12,6 @@
 - VBA 
 - SQL
 - JavaScript
-
 
 ### Projects:
 
